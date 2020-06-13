@@ -6,7 +6,7 @@
 [![Build Status](https://github.com/MarlinFirmware/Marlin/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/MarlinFirmware/Marlin/actions)
 
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
-x
+
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 Please let us know if Marlin misbehaves in any way. Volunteers are standing by!
 
